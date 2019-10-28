@@ -75,3 +75,11 @@ else:
 # replace       aStr.replace(old, new)
 
 # Be sure to include multiple examples of all of them in use
+
+# Character Functions
+
+print(ord('5'))
+
+print(chr(97+13))
+
+print(str(12548))
