@@ -94,3 +94,7 @@ print(indexToLetter(10))
 from crypto import *
 
 print(scramble2Encrypt("GOOD MORNING LADIES AND GENTLEMEN"))
+
+print(scramble2Decrypt("ODMRIGLDE N ETEEGO ONN AISADGNLMN"))
+
+
